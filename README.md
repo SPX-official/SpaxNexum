@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/rKNKyHGR/logo.webp" alt="SpaxNexum Logo" width="200">
+  <img src="https://i.ibb.co/390pctKD/SPAX-logo.png" alt="logo" border="0">
 </p>
 
 <h1 align="center">SpaxNexum Network</h1>
